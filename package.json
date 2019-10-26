@@ -1,12 +1,12 @@
 {
-  "name": "eslint-config-mattermost",
+  "name": "eslint-config-ladifire",
   "version": "1.0.0",
-  "description": "ESLint configuration used by Mattermost",
+  "description": "ESLint configuration used by Ladifire",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/mattermost/eslint-config-mattermost.git"
+    "url": "git+https://github.com/ladifire/eslint-config-ladifire.git"
   },
-  "author": "Mattermost, Inc.",
+  "author": "Ladifire, Inc.",
   "license": "Apache 2.0",
   "private": true
-}
+}s
