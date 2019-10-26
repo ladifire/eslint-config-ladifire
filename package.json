@@ -8,5 +8,5 @@
   },
   "author": "Ladifire, Inc.",
   "license": "Apache 2.0",
-  "private": true
-}s
+  "private": false
+}
